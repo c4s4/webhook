@@ -1,0 +1,4 @@
+# NeON Build File (http://github.com/c4s4/neon)
+
+default: run
+extends: golang
